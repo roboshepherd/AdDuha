@@ -1,0 +1,108 @@
+%% start of file `letter.tex'.
+%% Copyright 2006-2010 Xavier Danaux (xdanaux@gmail.com).
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License version 1.3c,
+% available at http://www.latex-project.org/lppl/.
+
+\documentclass[10.9pt]{article}
+\usepackage{times}
+\usepackage[utf8x]{inputenc}
+\usepackage[T1]{fontenc}
+%\usepackage{lmodern}
+%\usepackage{marvosym}
+\usepackage{ifpdf}
+%\usepackage{fullpage}
+\ifpdf
+  \usepackage[pdftex]{graphicx}
+\else
+  \usepackage[dvips]{graphicx}\fi
+
+\pagestyle{empty}
+
+\usepackage[scale=0.8]{geometry}
+\setlength{\parindent}{0pt}
+\addtolength{\parskip}{6pt}
+
+\def\firstname{Md Omar Faruque}
+\def\familyname{Sarker}
+\def\FileAuthor{\firstname \familyname}
+\def\FileTitle{\firstname \familyname's cover letter}
+\def\FileSubject{Cover letter}
+\def\FileKeyWords{\firstname \familyname, Cover letter}
+
+\usepackage{url}
+\renewcommand{\ttdefault}{pcr}
+\urlstyle{tt}
+\ifpdf
+  \usepackage[pdftex,pdfborder=0,breaklinks,baseurl=http://,pdfpagemode=None,pdfstartview=XYZ,pdfstartpage=1]{hyperref}
+  \hypersetup{
+    pdfauthor   = \FileAuthor,%
+    pdftitle    = \FileTitle,%
+    pdfsubject  = \FileSubject,%
+    pdfkeywords = \FileKeyWords,%
+    pdfcreator  = \LaTeX,%
+    pdfproducer = \LaTeX}
+\else
+  \usepackage[dvips]{hyperref}
+\fi
+
+\renewcommand{\familydefault}{\sfdefault}% for use with a résumé using sans serif fonts;
+%\renewcommand{\familydefault}{\rmdefault}% for use with a résumé using sans serif fonts;
+
+\begin{document}
+\hfill%
+\begin{minipage}[t]{.6\textwidth}
+\raggedleft%
+{\bfseries Md Omar Faruque Sarker}\\[.35ex]
+\small\itshape%
+Cardiff Road, Newport\\
+United Kingdom, NP20 2EH\\[.35ex]
+Tel~: \\
+Email:~Mdomarfaruque.Sarker\\@newport.ac.uk
+\end{minipage}\\[0.5em]
+%
+\begin{minipage}[t]{.5\textwidth}
+\today\\[1.5em]
+%\raggedright%
+{\bfseries Faculty Search Committee} 
+
+\end{minipage}\\[1.5em]
+\hfill % US style
+%\\[1em] % UK style
+%\begin{minipage}[t]{.4\textwidth}
+%\raggedleft % US style
+%\today
+%April 6, 2006 % US informal style
+%05/04/2006 % UK formal style
+%\end{minipage}\\[2em]
+%\raggedright
+\textbf{Dear Members of the Search Committee,}\\[1.5em]
+%I am writing in response to your advertisement for the Faculty Member in Information Technology position at United Arab Emirates University (UAEU).  I am currently a Ph.D. candidate  at Cognitive Robotics Research Centre, University of Wales, Newport, UK. I am expecting to complete my degree in October 2010. I respectfully submit this letter of application, for I believe my experiences and commitment to research and teaching make me well qualified to meet the needs of UAEU’s dynamic program.
+
+As a PhD student at Newport, I have achieved my diverse academic background and skill in the area of networking, robotics and intelligent multi-agent systems. Since 2007, I have been shepherding UK's one of the largest multi-robot teams which consists of more than 40 e-puck robots and state-of the-art network cluster and other hardware. Here I have specialized in multi-robot systems by developing bio-inspired control algorithms and software frameworks for multi-robot control, communication and  position tracking. %By developing a full-fledged multi-robot control system I have gained significant knowledge and experience in distributed computing and computer vision.
+%and customizing the state of the art SwisTrack multi-robot tracker,
+
+During my Masters study at Korea Institute of Science \& Technology (KIST), I studied the information security and several robotics courses at Korea University and conducted practical research on mobile robots at KIST's highly equipped research laboratories. I developed an intelligent security scheme and a real-time humanoid control system for the Korean humanoid robot named \textit{Mahru}.
+%, such as the Center for Cognitive Robotics and the Intelligent Media Research Center
+
+Since 1999, I am an open-source developer. I have been awarded the  prestigious \textit{ Google's summer-of-code open-source development sponsorship} twice (in 2010 competition, acceptance rate is 18\% out of 5,539 total applicants). In 2009, I worked for \textit{Bluez} and successfully tested the feasibility of integrating short-range \textit{NFC} communication with \textit{Linux Bluetooth stack}. In 2010 competition, I was mentored by a cryptographic expert and successfully developed a decentralized introduction scheme for \textit{Tahoe-LAFS}.
+
+At Newport, I mentored 8 visiting postgraduate students (4 French, 3 Spanish and 1 Indian) in completing their final-year research projects. I also taught undergraduate and masters students on Linux and networking courses at Bangladesh University of Engineering \& Technology and also at Int'l Islamic University of Chittagong, Dhaka campus, Bangladesh.
+
+%I had also contributed code to several open-source projects such as SwisTrack and E-puck robot. 
+
+During the years of my study in abroad, I have developed a strong ties with  distinguished researchers working in the world-leading institutions e.g. the University of the Wast of England, Imperial College London (UK),  Swiss Federal Institute of Technology, (Switzerland) and Korea Advance Institute of Science and Technology (South Korea). 
+
+Now I am highly interested to research towards building a world-class multi-robot team for deploying in emergency search and rescue missions.  Besides, I am also keen to contribute in teaching courses of various levels and areas. Please find the details of my research track records, publications and teaching interests in my CV. I look forward to discussing with you about my specific research proposal.\\[1em]
+Thank you very much for your consideration.\\[1.5em]
+Sincerely,\\[1em] % if the opening is "Dear Mr(s) Doe,"
+%Yours faithfully,\\[2em] % if the opening is "Dear Sir or Madam,"
+%
+%\includegraphics[scale=0.75]{signature_blue}\\
+{\bfseries Md Omar Faruque Sarker}%\\
+%
+%\vfill%
+%{\slshape Enclosure}
+%{\slshape Attachment: curriculum vit\ae{}}
+\end{document}
