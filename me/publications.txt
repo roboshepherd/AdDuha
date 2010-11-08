@@ -1,0 +1,29 @@
+﻿Research publications
+Book Chapters
+Md Omar Faruque Sarker and Dahl Torbjorn S. A Robotic Validation of the Attractive Field Model: An Inter-disciplinary Model of Self-regulatory Social Systems. In the Proceedings of the International Conference on Swarm Intelligence (ANTS 2010), LNCS 62354, Marco Dorigo, Mauro Birattari, Gianni A. Di Caro, René Doursat, Andrieas P. Engelbrecht, Dario Floreano, Luca Maria Gambardella, Roderich Groß, Erol Şahin, Hiroki Sayama, Thomas Stützle (Eds.), Springer, pp24-35, Brussels, Belgium, September 8-10, 2010. 
+
+Md Omar Faruque Sarker,  Kim ChangHwan Sadi Muhammad Golam and You Bam-Jae. Developing Knowledge-Based Security-Sense of Networked Intelligent Robots.  In the Proceedings of 10th Knowledge-Based Intelligent Information and Engineering Systems (KES 2006), LNCS, 4251, Bogdan Gabrys, Robert J. Howlett, Lakhmi C. Jain (Eds.), Springer,  pp874-881, Bournemouth, UK, October 9-11, 2006.
+
+Conference Papers
+Md Omar Faruque Sarker and Dahl, Torbjorn S. Flexible Communication in Multi-robotic Control System Using HEAD: Hybrid Event-driven Architecture on D-Bus. In the Proc. of the UKACC International Conference on Control (CONTROL 2010),  pp 926-931, Coventry, UK, September 7-10, 2010.
+
+Md Omar Faruque Sarker and Torbjorn S. Dahl. Communication Strategies for Self-regulated Division of Labour in Robot Society. In the Proceedings of the 2009 European Conference on Complex Systems (ECCS 2009), pp157-158, Warwick, UK,  September 21-25, 2009.
+
+Md Omar Faruque Sarker Park, Jung Ming, Kim ChangHwan and You. Bam Jae. A Knowledge-Based Service Approach for Human-Centered Robots. In the Proc. of the 16th IEEE International Symposium on Robot and Human interactive Communication (RO-MAN 2007), pages 582-587, 2007.
+
+Md Omar Faruque Sarker,  Kim ChangHwan Baek S. and You. Bam Jae. An IEEE-1394 Based Real-time Robot Control System for Efficient Controlling of Humanoids. In the Proc. of the 2006 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2006), pages 1416-1421, Beijing China, 2006.
+
+Md Omar Faruque Sarker,  Kim ChanHwan Cho J-S. and You. Bam Jae. Development of a Network-based Real-Time Robot Control System over IEEE 1394: Using Open Source Software Platform. In the Proc. of the 2006 IEEE International Conference on Mechatronics, ICM 2006, pages 563-568, Budapest, Hungary, 2006.
+
+Theses/Reports
+Md Omar Faruque Sarker. Self-regulated multi-robot task allocation. PhD Thesis, University of Wales, Newport, UK (pending).
+
+Md Omar Faruque Sarker. Emergent Self-regulation in Social Robotic Systems. PhD Transfer Report, University of Wales, Newport, UK, November 2008. 
+
+Md Omar Faruque Sarker. A Knowledge-Based Service Approach for Human-Centered Robots. Masters Thesis, University of Science and Technology, South Korea, August 2007.
+
+Submitted/Accepted for Publication
+Md Omar Faruque Sarker and Torbjorn S. Dahl. Bio-inspired Communication for Self-regulated Multi-robot Sytems. Accepted for publication in Multi-Robot Systems, Trends and Development, ISBN 978-953-7619-X-X (pending).
+
+Md Omar Faruque Sarker and Torbjorn S. Dahl. Self-regulated Multi-robot Task Allocation: A Taxonomy and Comparison of Centralized and Local Communication Strategies. In submission to Elsevier's Robotics and Autonomous System (pending).
+
